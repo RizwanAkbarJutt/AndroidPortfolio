@@ -14,8 +14,28 @@ frames and lenses based on the user's face shape, style, and prescription. By pr
 features, Lensify aim to offer a hassle-free and personalized eyewear shopping experience for its
 customers.
 <p align="center">
-<img src="images/stry app/Artboard – 1@2x.png" width="700"  title="Stry Application">
+    <img src="Screenshot_20240612-172613.png" width="33%" height="500" title="Screenshot 1">
+    <img src="Screenshot_20240612-172616.png" width="33%" height="500" title="Screenshot 2">
+    <img src="Screenshot_20240612-172636.png" width="33%" height="500" title="Screenshot 3">
+</p>
+
+# GQAI: AI-Based Object and Text Translation Mobile Application
+
+The system uses Object Detection from Google Cloud vision API to recognize the object and it is
+a part of Machine Learning (ML). Similarly, for Text, we are using Text Detection from Google
+Cloud vision API to recognize the Text, and it is also part of ML.
+It translates the text or object into a preferred language. For instance, if a user selects a computer
+image and Urdu as the preferred language, Google Translation API will translate the recognized
+image and display the message/output in Urdu.
+Another option is available here; the same user must pick the image on which text is accessible,
+and that text or message will be transformed into the specified language. It will be beneficial if
+you do not understand any other language text, message or even handwriting, as you will be able
+to convert it into your understandable language. 
+
+<p align="center">
+    <img src="Screenshot_20240604-000445.png" width="33%" height="500" title="Screenshot 1">
+    <img src="Screenshot_20240604-000429.png" width="33%" height="500" title="Screenshot 2">
+    <img src="Screenshot_20240603-222727.png" width="33%" height="500" title="Screenshot 3">
 </p>
 
 ## Thanks for stopping!
-  
